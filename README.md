@@ -16,7 +16,7 @@ A Python and Bash utility script to fix, stitch, and convert KML/KMZ SuperOverla
 ก่อนรันสคริปต์ โฟลเดอร์ที่แตกไฟล์ KMZ ออกมาควรมีโครงสร้างดังนี้:
 
 ```text
-📦 your-kmz-extracted-folder/
+📦 61 Topo1-50000 SAMUT SONGKHRAM - mitrearth/
  ┣ 📜 doc.kml                # ไฟล์ KML แกนหลักที่เก็บพิกัด
  ┣ 📜 stitch.py              # 1️⃣ สคริปต์ Python สำหรับรันตัวแรก
  ┣ 🖼️ _L1_0_0.png            # ไฟล์ภาพย่อยระดับ L1
